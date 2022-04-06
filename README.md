@@ -2,6 +2,8 @@
 
 A codepen clone 🪞
 
+![app](./images/app.png)
+
 # Technologies
 
 - [React](https://reactjs.org/docs/getting-started.html)
