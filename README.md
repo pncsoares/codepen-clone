@@ -49,7 +49,7 @@ Execute the following command:
   npm start
 ```
 
-A browser page will open automatically 🪄
+A browser page will open automagically 🪄
 
 # License
 
